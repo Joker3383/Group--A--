@@ -1,0 +1,15 @@
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\bin\Debug\net7.0\FIrstConsoleApp.exe
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\bin\Debug\net7.0\FIrstConsoleApp.deps.json
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\bin\Debug\net7.0\FIrstConsoleApp.runtimeconfig.json
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\bin\Debug\net7.0\FIrstConsoleApp.dll
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\bin\Debug\net7.0\FIrstConsoleApp.pdb
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\obj\Debug\net7.0\FIrstConsoleApp.csproj.AssemblyReference.cache
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\obj\Debug\net7.0\FIrstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\obj\Debug\net7.0\FIrstConsoleApp.AssemblyInfoInputs.cache
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\obj\Debug\net7.0\FIrstConsoleApp.AssemblyInfo.cs
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\obj\Debug\net7.0\FIrstConsoleApp.csproj.CoreCompileInputs.cache
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\obj\Debug\net7.0\FIrstConsoleApp.dll
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\obj\Debug\net7.0\refint\FIrstConsoleApp.dll
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\obj\Debug\net7.0\FIrstConsoleApp.pdb
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\obj\Debug\net7.0\FIrstConsoleApp.genruntimeconfig.cache
+D:\dev\Group--A--\FIrstConsoleApp\FIrstConsoleApp\obj\Debug\net7.0\ref\FIrstConsoleApp.dll
