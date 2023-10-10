@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git hub 1\\Grupa-A--\\FIrstConsoleApp\\FIrstConsoleApp\\FIrstConsoleApp.csproj",
-      "projectName": "FIrstConsoleApp",
-      "projectPath": "D:\\Git hub 1\\Grupa-A--\\FIrstConsoleApp\\FIrstConsoleApp\\FIrstConsoleApp.csproj",
+      "projectUniqueName": "D:\\Git hub 1\\Grupa-A--\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "D:\\Git hub 1\\Grupa-A--\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\maruk\\.nuget\\packages\\",
-      "outputPath": "D:\\Git hub 1\\Grupa-A--\\FIrstConsoleApp\\FIrstConsoleApp\\obj\\",
+      "outputPath": "D:\\Git hub 1\\Grupa-A--\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maruk\\AppData\\Roaming\\NuGet\\NuGet.Config",
