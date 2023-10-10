@@ -11,6 +11,8 @@ namespace ConsoleApp12
         static void Main(string[] args)
         {
             Console.WriteLine("Maruk LOX");
+            Console.WriteLine("Maruk LOX");
+            Console.WriteLine("Maruk LOX");
         }
     }
 }
